@@ -1,1 +1,1 @@
-# Handwritting-Recognition-Using-LLM
+# Handwritting-Recognition-System
