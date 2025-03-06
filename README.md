@@ -4,7 +4,6 @@ This project focuses on developing a Handwriting Recognition System using Convol
 Key Features:
 Deep Learning Model: Implemented a CNN-based architecture to recognize handwritten text from images.
 Preprocessing Techniques: Used image processing methods such as grayscale conversion, noise reduction, and binarization to improve recognition accuracy.
-Dataset Utilization: Trained on publicly available handwriting datasets like MNIST, EMNIST, or IAM Handwriting Database for effective classification.
 Model Training & Evaluation: Optimized the CNN model using TensorFlow/Keras, fine-tuning hyperparameters for better performance.
 Real-time Recognition: Integrated image input from scanned documents or camera feeds for real-time handwriting recognition.
 
