@@ -7,6 +7,7 @@ Preprocessing Techniques: Used image processing methods such as grayscale conver
 Dataset Utilization: Trained on publicly available handwriting datasets like MNIST, EMNIST, or IAM Handwriting Database for effective classification.
 Model Training & Evaluation: Optimized the CNN model using TensorFlow/Keras, fine-tuning hyperparameters for better performance.
 Real-time Recognition: Integrated image input from scanned documents or camera feeds for real-time handwriting recognition.
+
 Technologies Used:
 Deep Learning Frameworks: TensorFlow, Keras, PyTorch
 Programming Languages: Python
